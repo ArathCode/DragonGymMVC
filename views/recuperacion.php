@@ -17,13 +17,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../cliente/css/recuperacion.css">
+    <link rel="stylesheet" href="../public/css/recuperacion.css">
     <title>Recuperación</title>
 </head>
 <body>
     <div class="encabezado">
         <div class="imagen">
-            <img src="../cliente/imgs/logo.jpg" alt="" class="logo">
+            <img src="../public/imgs/logo.jpg" alt="" class="logo">
         </div>
     </div>
 
